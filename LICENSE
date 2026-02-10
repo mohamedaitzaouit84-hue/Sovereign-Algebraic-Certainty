@@ -1,21 +1,17 @@
-MIT License
+SOVEREIGN INTELLECTUAL PROPERTY LICENSE (SIPL-1.0)
+Copyright (c) 2026 Ahmed Ait Zaouit. All Rights Reserved.
 
-Copyright (c) 2026 Ahmed Ait Zaouit
+THIS SOFTWARE IS PROVIDED AS A "PROOF OF CERTAINTY" ONLY.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. PROHIBITIONS:
+   - REVERSE ENGINEERING: Any attempt to decompile, disassemble, or derive the underlying algebraic logic and constants is strictly prohibited.
+   - REPRODUCTION: This code is engineered for one-time verification. Any attempt to bypass the execution lock is a violation of this license.
+   - COMMERCIAL USE: No corporate, governmental, or academic entity may use this logic in any commercial or proprietary system without explicit written consent from the Sovereign Author.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. LOGIC OWNERSHIP:
+   The mathematical convergence and the non-standard algebraic constants (AZP-Logic) used in this repository remain the exclusive property of Ahmed Ait Zaouit.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. LIMITATION OF LIABILITY:
+   This code is provided "as is". Execution confirms the validity of the results (91.3185%+ accuracy). The Author is not responsible for any system destabilization caused by the "Logic Black Hole" mechanism.
+
+BY EXECUTING THIS CODE, YOU AGREE TO THESE SOVEREIGN TERMS.
